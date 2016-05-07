@@ -1,8 +1,8 @@
 # InstantWeather
 A basic Objective-C iOS app that shows the weather of your current location using OpenWeatherMap API and RestKit framework.
-<img src="https://github.com/elefantel/NYBestsellers/blob/master/Screenshots/kempton-park.png" alt="Kempton Park" style="width: 200px;"/>
-<img src="https://github.com/elefantel/NYBestsellers/blob/master/Screenshots/inanda.png" alt="Inanda" style="width: 200px;"/>
-<img src="https://github.com/elefantel/NYBestsellers/blob/master/Screenshots/monte-vista.png" alt="Monte Vista" style="width: 200px;"/>
+<img src="https://github.com/elefantel/InstantWeather/blob/master/Screenshots/kempton-park.png" alt="Kempton Park" style="width: 200px;"/>
+<img src="https://github.com/elefantel/InstantWeather/blob/master/Screenshots/inanda.png" alt="Inanda" style="width: 200px;"/>
+<img src="https://github.com/elefantel/InstantWeather/blob/master/Screenshots/monte-vista.png" alt="Monte Vista" style="width: 200px;"/>
 ## Description
 A basic iOS app that shows the weather of your current location using OpenWeatherMap API and RestKit framework. The integrated RestKit framework is maps the fetched JSON result to a Core Data entity and then persists the entity. This project uses Cocoapods.
 
