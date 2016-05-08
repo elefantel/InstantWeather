@@ -9,3 +9,6 @@ A basic iOS app that shows the weather of your current location using OpenWeathe
 This app depends on the following open source libraries:
 
 **RestKit**- A modern Objective-C framework for implementing RESTful web services clients on iOS and Mac OS X. It comes with Core Data integration, which makes object persitence a cool breeze.
+
+## Licence
+InstantWeather is licensed under the terms of the <a href="https://en.wikipedia.org/wiki/MIT_License">MIT License</a>. Please see LICENSE file for full details.
